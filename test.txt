@@ -8,4 +8,8 @@ b
 
 use dev branch
 
-creating a new branch is fast & simple.
+<<<<<<< HEAD
+creating a new branch is fast and simple.
+=======
+creating a new branch is fast and simple.
+>>>>>>> dev
