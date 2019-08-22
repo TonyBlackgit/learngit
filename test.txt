@@ -7,3 +7,5 @@ a
 b
 
 use dev branch
+
+creating a new branch is fast & simple.
